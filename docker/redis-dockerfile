@@ -1,5 +1,5 @@
 # use base image.
-FROM sloopstash/amazonlinux:v1
+FROM rittu/amazonlinux:v1
 
 # install system packages.
 RUN yum install -y tcl
