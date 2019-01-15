@@ -1,3 +1,3 @@
 # Sample CRM
 
-Here we are using docker for hosting a sample CRM application with app and redis as a database engine.
+This is the simple application which can be used with small set of people and no where compared to the Production.
